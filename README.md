@@ -1,2 +1,11 @@
 # TCC_MBA_CIENCIA_DADOS_USP
 Utilização de aprendizado não supervisionado e método estatístico para encontrar pontos de atenção nas licitações da Bolsa Eletrônica de Compras - BEC/SP do Governo do Estado de São Paulo.
+
+
+
+# RESUMO
+MENDES, F. H. F. Utilização de aprendizado não supervisionado e método estatístico para encontrar pontos de atenção nas licitações da Bolsa Eletrônica de Compras - BEC/SP do Governo do Estado de São Paulo. 2022. 55 f. Trabalho de conclusão de curso (MBA em Ciência de Dados) – Instituto de Ciências Matemáticas e de Computação, Universidade de São Paulo, São Carlos, 2023.
+
+As compras governamentais precisam seguir o rito da licitação. Conforme o Art. 11 da Lei 14.133/22, o processo licitatório tem por objetivos: I - assegurar a seleção da proposta apta a gerar o resultado de contratação mais vantajoso para a Administração Pública, inclusive no que se refere ao ciclo de vida do objeto; II - assegurar tratamento isonômico entre os licitantes, bem como a justa competição; III - evitar contratações com sobrepreço ou com preços manifestamente inexequíveis e superfaturamento na execução dos contratos. O Governo do Estado de São Paulo criou um ambiente eletrônico para melhorar a eficiência e eficácia das compras públicas chamado Bolsa Eletrônica de Compras- BEC. Mesmo com esse ambiente criado para fortalece o princípio da isonomia e persevera na compra mais vantajosa para o Estado. Todavia, é impossível evitar situações que as empresas combinam para ludibriar o princípio da igualdade com o fito de ganhar o certame e aumentar os seus lucros com preços elevados ou baixa qualidade dos bens e serviços. Este trabalho explora esse cenário para encontrar pontos de atenção na BEC/SP para mitigar essas anormalidades. Para isso, utilizou-se o aprendizado não supervisionado regra de associação aplicando o algoritmo APRIORI para encontrar empresas que se relacionam mais na licitações e o método estatístico MARITZ-JARRET para analisar os preços pela mediana com intervalo de confiança para indicar um limite máximo para o preço de referência e negociado nas licitações.
+
+Palavras-chave: Licitação; Regra de Associação; APRIORI; Aprendizado de Máquina; Método MARITZ-JARRET;
